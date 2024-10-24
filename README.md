@@ -19,6 +19,6 @@ I am a passionate and dedicated IT student with a keen interest in Cloud Computi
 ![](https://github-contributor-stats.vercel.app/api?username=CeeYz&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CeeYz&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CeeYz&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
